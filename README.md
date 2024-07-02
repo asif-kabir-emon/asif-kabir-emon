@@ -10,9 +10,6 @@
 </p>
 
 
-<br/>
-
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank" style="text-decoration:none">
@@ -25,9 +22,6 @@
     <img height="32" width="40" src="https://cdn.simpleicons.org/facebook/#0866FF" />
   </a>
 </p>
-
-
-<br/>
 
 
 <h3 align="left">Languages and Tools</h3>
