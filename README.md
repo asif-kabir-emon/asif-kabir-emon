@@ -4,8 +4,8 @@
 <h3 align="left">Current Stats</h3>
 
 <p align="left" padding="20px">
-  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly" alt="GitHub Streak" />
-<!--   <br /> -->
+  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=450" alt="GitHub Streak" />
+  <br />
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=f007bff&bg_color=171c28" />
 </p>
 
