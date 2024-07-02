@@ -5,20 +5,20 @@
 
 <p align="left" padding="20px">
   <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=470" alt="GitHub Streak" />
-  <br />
+  <br/>
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=f007bff&bg_color=171c28&card_width=470" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/asif_kabir_emon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dddd" height="30" width="40" />
+  <a href="https://x.com/asif_kabir_emon" target="blank" style="text-decoration:none">
+    <img height="32" width="40" src="https://cdn.simpleicons.org/x/#010101" />
   </a>
-
-  <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adddddd" height="30" width="40" />  </a>
-  <a href="https://www.facebook.com/asifkabiremon" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dddddddd" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank" style="text-decoration:none">
+    <img height="32" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+  </a>
+  <a href="https://www.facebook.com/asifkabiremon" target="blank" style="text-decoration:none">
+    <img height="32" width="40" src="https://cdn.simpleicons.org/facebook/#0866FF" />
   </a>
 </p>
 
