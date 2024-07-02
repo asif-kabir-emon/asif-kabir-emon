@@ -9,26 +9,28 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=f007bff&bg_color=171c28&card_width=470" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
+<br/>
+
+
+<h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://x.com/asif_kabir_emon" target="blank" style="text-decoration:none">
-    <img height="32" width="40" src="https://cdn.simpleicons.org/x/#010101" />
-  </a>
   <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank" style="text-decoration:none">
     <img height="32" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
+  </a>
+  <a href="https://x.com/asif_kabir_emon" target="blank" style="text-decoration:none">
+    <img height="32" width="40" src="https://cdn.simpleicons.org/x/#010101" />
   </a>
   <a href="https://www.facebook.com/asifkabiremon" target="blank" style="text-decoration:none">
     <img height="32" width="40" src="https://cdn.simpleicons.org/facebook/#0866FF" />
   </a>
 </p>
 
-  
-  
 
+<br/>
 
 
 <h3 align="left">Languages and Tools</h3>
-
 <div align="lef">
   <div display="flex" gap="10px">
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
