@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools</h3>
 
-<div align="center">
+<div align="lef">
   <div display="flex" gap="10px">
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
     <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />
