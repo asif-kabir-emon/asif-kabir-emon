@@ -1,16 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Asif Kabir Emon</h1>
 
 
-<h3 align="left">Current Stats</h3>
-
-<p align="left" padding="20px">
-  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=470" alt="GitHub Streak" />
-  <br/>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=f007bff&bg_color=171c28&card_width=470" />
-</p>
-
-
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Get touch with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank" style="text-decoration:none">
     <img height="32" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
@@ -46,6 +37,14 @@
     <img height="32" width="32" src="https://cdn.simpleicons.org/graphql/#E10098" />
   </div>
 </div>
+
+
+<h3 align="left">Current Stats</h3>
+<p align="left" padding="20px">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=f007bff&bg_color=171c28&card_width=470" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=470" alt="GitHub Streak" />
+</p>
 
 <!--
 **asif-kabir-emon/asif-kabir-emon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
