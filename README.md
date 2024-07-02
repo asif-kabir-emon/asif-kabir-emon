@@ -7,7 +7,8 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Languages and Tools
 
 <div align="center">
   <div display="flex" gap="10px">
