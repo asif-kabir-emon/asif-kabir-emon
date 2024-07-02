@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Md Asif Kabir Emon</h1>
 
 
-## Current Stats
+<h3 align="left">Current Stats</h3>=
 
 <p align="center" padding="20px">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=asif-kabir-emon&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,6 +20,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dddddddd" height="30" width="40" />
   </a>
 </p>
+
+  
+  
+
 
 
 <h3 align="left">Languages and Tools</h3>
