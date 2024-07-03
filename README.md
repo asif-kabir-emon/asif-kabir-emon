@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Asif Kabir Emon</h1>
 
 
-<h3 align="left">Stay in touch with me</h3>
+<h3 align="left">Stay in touch</h3>
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-kabir-emon/)](https://www.linkedin.com/in/asif-kabir-emon/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://asif-kabir.com/)](https://asif-kabir.com/)
