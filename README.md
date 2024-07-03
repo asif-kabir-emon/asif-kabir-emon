@@ -1,4 +1,4 @@
-![Github Profile Banner](https://github.com/asif-kabir-emon/asif-kabir-emon/assets/79392749/24c9998b-2737-4546-aa7b-ea50f8719b36)
+![Github Profile Banner](https://github.com/asif-kabir-emon/asif-kabir-emon/assets/79392749/0b81337d-79c3-4503-baf3-ce324942351e)
 
 <h1 align="center"></h1>
 
@@ -12,6 +12,7 @@
 
 
 <h3 align="left">Languages and Tools</h3>
+
 <div align="lef">
   <div display="flex" gap="10px">
     <img height="45" width="45" src="https://cdn.simpleicons.org/html5/#E34F26" />
@@ -36,23 +37,10 @@
 
 
 <h3 align="left">Current Stats</h3>
+
 <p align="left" padding="20px">
   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=asif-kabir-emon&show_icons=true&bg_color=151515&text_color=e7e7e7" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=470" alt="GitHub Streak" />
 </p>
 
-<!--
-**asif-kabir-emon/asif-kabir-emon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
