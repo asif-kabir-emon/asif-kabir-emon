@@ -2,6 +2,10 @@
 
 <h1 align="center"></h1>
 
+<p align="justify">
+  Hi, I am a full-stack web developer with a passion for crafting dynamic, responsive applications. Proficient in JavaScript, React.js, Node.js, Express.js, Next.js and MongoDB. Experienced in building and maintaining scalable web applications from concept to deployment. Enthusiastic about learning new technologies and improving coding skills. Always eager to collaborate on innovative projects and contribute to open-source communities.
+</p>
+
 
 <h3 align="left">Stay in touch</h3>
 
@@ -9,6 +13,12 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://asif-kabir.com/)](https://asif-kabir.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/asif_kabir_emon?screen_name=misteranmol)
 
+
+<p>
+  Email Address: asifkabiremon@gmail.com
+  <br/>
+  Personal Website: <a href="https://asif-kabir.com/" target="_blank">https://asif-kabir.com/</a>
+</p>
 
 
 <h3 align="left">Languages and Tools</h3>
