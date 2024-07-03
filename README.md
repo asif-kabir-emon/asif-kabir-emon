@@ -4,8 +4,8 @@
 <h3 align="left">Get touch with me</h3>
 
 [![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-kabir-emon/)](https://www.linkedin.com/in/asif-kabir-emon/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/asif_kabir_emon?screen_name=misteranmol)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://asif-kabir.com/)](https://asif-kabir.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/asif_kabir_emon?screen_name=misteranmol)
 
 
 
