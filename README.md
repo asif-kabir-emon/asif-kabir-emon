@@ -2,17 +2,11 @@
 
 
 <h3 align="left">Get touch with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/asif-kabir-emon" target="blank" style="text-decoration:none">
-    <img height="32" width="40" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />
-  </a>
-  <a href="https://x.com/asif_kabir_emon" target="blank" style="text-decoration:none">
-    <img height="32" width="40" src="https://cdn.simpleicons.org/x/#010101" />
-  </a>
-  <a href="https://www.facebook.com/asifkabiremon" target="blank" style="text-decoration:none">
-    <img height="32" width="40" src="https://cdn.simpleicons.org/facebook/#0866FF" />
-  </a>
-</p>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/asif_kabir_emon?screen_name=misteranmol)
+[![Linkedin: Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asif-kabir-emon/)](https://www.linkedin.com/in/asif-kabir-emon/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://asif-kabir.com/)](https://asif-kabir.com/)
+
 
 
 <h3 align="left">Languages and Tools</h3>
