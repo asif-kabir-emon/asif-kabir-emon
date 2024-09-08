@@ -42,7 +42,6 @@
     <img height="45" width="45" src="Language Icons/nestjs.svg" title="Nest JS" />
     <img height="45" width="45" src="Language Icons/redux.svg" title="Redux Toolkit" />
     <img height="45" width="45" src="Language Icons/mongodb.svg" title="MongoDB" />
-<!--     <img height="45" width="45" src="Language Icons/mysql.svg" title="MySQL" /> -->
     <img height="45" width="45" src="Language Icons/postgresql.svg" title="PostgreSQL" />
     <img height="45" width="45" src="Language Icons/prisma.svg" title="Prisma" />
     <img height="45" width="45" src="Language Icons/graphql.svg" title="Graphql" />
