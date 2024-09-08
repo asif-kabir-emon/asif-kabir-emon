@@ -16,6 +16,22 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://asif-kabir.com/)](https://asif-kabir.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/asif_kabir_emon?screen_name=misteranmol)
 
+<div align="left">
+  <div display="flex" gap="10px">
+    <a href="https://www.linkedin.com/in/asif-kabir-emon/" target="_blank">
+      <img height="30" src="Button/linkedin_button.svg" />
+    </a>
+    <a href="https://asif-kabir.com/" target="_blank">
+      <img height="30" src="Button/website_button.svg" />
+    </a>
+    <a href="https://www.facebook.com/asifkabiremon/" target="_blank">
+      <img height="30" src="Button/facebook_button.svg" />
+    </a>
+    <a href="https://x.com/asif_kabir_emon/" target="_blank">
+      <img height="30" src="Button/x_buttton.svg" />
+    </a>
+  </div>
+</div>
 
 <p>
   Email Address: asifkabiremon@gmail.com
