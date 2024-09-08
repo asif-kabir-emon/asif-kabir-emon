@@ -37,8 +37,8 @@
     <img height="45" width="45" src="Language Icons/react.svg" title="React JS" />
     <img height="45" width="45" src="Language Icons/nextjs.svg" title="Next JS" />
     <img height="45" width="45" src="Language Icons/tailwindcss.svg" title="Tailwind CSS" />
-    <img height="45" width="45" src="Language Icons/mui.svg" title="Material UI" />
     <img height="45" width="45" src="Language Icons/shadcnui.svg" title="Shedcn UI" />
+    <img height="45" width="45" src="Language Icons/mui.svg" title="Material UI" />
     <img height="45" width="45" src="Language Icons/nestjs.svg" title="Nest JS" />
     <img height="45" width="45" src="Language Icons/redux.svg" title="Redux Toolkit" />
     <img height="45" width="45" src="Language Icons/mongodb.svg" title="MongoDB" />
