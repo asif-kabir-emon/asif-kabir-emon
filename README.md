@@ -28,23 +28,25 @@
 
 <div align="left">
   <div display="flex" gap="10px">
-    <img height="45" width="45" src="https://cdn.simpleicons.org/html5/#E34F26" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/css3/#1572B6" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/typescript/#3178C6" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/nodedotjs/#5FA04E" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/react/#61DAFB" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/tailwindcss/#06B6D4" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/mui/#007FFF" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/express/#000000" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/nestjs/#E0234E" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/nextdotjs/#000000" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/redux/#764ABC" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/axios/#5A29E4" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/mongodb/#47A248" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/prisma/#2D3748" />
-    <img height="45" width="45" src="https://cdn.simpleicons.org/graphql/#E10098" />
+    <img height="45" width="45" src="Language Icons/html5.svg" />
+    <img height="45" width="45" src="Language Icons/css3.svg" />
+    <img height="45" width="45" src="Language Icons/javascript.svg" />
+    <img height="45" width="45" src="Language Icons/typescript.svg" />
+    <img height="45" width="45" src="Language Icons/nodedotjs.svg" />
+    <img height="45" width="45" src="Language Icons/express.svg" />
+    <img height="45" width="45" src="Language Icons/react.svg" />
+    <img height="45" width="45" src="Language Icons/nextdotjs.svg" />
+    <img height="45" width="45" src="Language Icons/tailwindcss.svg" />
+    <img height="45" width="45" src="Language Icons/mui.svg" />
+    <img height="45" width="45" src="Language Icons/shadcnui.svg" />
+    <img height="45" width="45" src="Language Icons/nestjs.svg" />
+    <img height="45" width="45" src="Language Icons/redux.svg" />
+    <img height="45" width="45" src="Language Icons/mongodb.svg" />
+    <img height="45" width="45" src="Language Icons/mysql.svg" />
+    <img height="45" width="45" src="Language Icons/postgresql.svg" />
+    <img height="45" width="45" src="Language Icons/prisma.svg" />
+    <img height="45" width="45" src="Language Icons/graphql.svg" />
+    <img height="45" width="45" src="Language Icons/docker.svg" />
   </div>
 </div>
 
