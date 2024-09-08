@@ -33,7 +33,7 @@
     <img height="45" width="45" src="Language Icons/javascript.svg" title="JavaScript" />
     <img height="45" width="45" src="Language Icons/typescript.svg" title="TypeScript" />
     <img height="45" width="45" src="Language Icons/nodejs.svg" title="Node JS" />
-    <img height="45" width="45" src="Language Icons/express.svg" title="Express JS" />
+    <img height="45" width="45" src="Language Icons/expressjs.svg" title="Express JS" />
     <img height="45" width="45" src="Language Icons/react.svg" title="React JS" />
     <img height="45" width="45" src="Language Icons/nextjs.svg" title="Next JS" />
     <img height="45" width="45" src="Language Icons/tailwindcss.svg" title="Tailwind CSS" />
