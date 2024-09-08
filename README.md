@@ -6,7 +6,7 @@
 <h1 align="center"></h1>
 
 <p align="justify">
-  Hi, I am a full-stack web developer with a passion for crafting dynamic, responsive applications. Proficient in JavaScript, React.js, Node.js, Express.js, Next.js and MongoDB. Experienced in building and maintaining scalable web applications from concept to deployment. Enthusiastic about learning new technologies and improving coding skills. Always eager to collaborate on innovative projects and contribute to open-source communities.
+  Hi, I am a full-stack developer with a passion for crafting dynamic, responsive applications. Proficient in JavaScript, React.js, Node.js, Express.js, Next.js, React Native and MongoDB. Experienced in building and maintaining scalable web applications from concept to deployment. Enthusiastic about learning new technologies and improving coding skills. Always eager to collaborate on innovative projects and contribute to open-source communities.
 </p>
 
 
