@@ -32,10 +32,10 @@
     <img height="45" width="45" src="Language Icons/css3.svg" title="CSS" />
     <img height="45" width="45" src="Language Icons/javascript.svg" title="JavaScript" />
     <img height="45" width="45" src="Language Icons/typescript.svg" title="TypeScript" />
-    <img height="45" width="45" src="Language Icons/nodedotjs.svg" title="Node JS" />
+    <img height="45" width="45" src="Language Icons/nodejs.svg" title="Node JS" />
     <img height="45" width="45" src="Language Icons/express.svg" title="Express JS" />
     <img height="45" width="45" src="Language Icons/react.svg" title="React JS" />
-    <img height="45" width="45" src="Language Icons/nextdotjs.svg" title="Next JS" />
+    <img height="45" width="45" src="Language Icons/nextjs.svg" title="Next JS" />
     <img height="45" width="45" src="Language Icons/tailwindcss.svg" title="Tailwind CSS" />
     <img height="45" width="45" src="Language Icons/mui.svg" title="Material UI" />
     <img height="45" width="45" src="Language Icons/shadcnui.svg" title="Shedcn UI" />
