@@ -28,25 +28,25 @@
 
 <div align="left">
   <div display="flex" gap="10px">
-    <img height="45" width="45" src="Language Icons/html5.svg" />
-    <img height="45" width="45" src="Language Icons/css3.svg" />
-    <img height="45" width="45" src="Language Icons/javascript.svg" />
-    <img height="45" width="45" src="Language Icons/typescript.svg" />
-    <img height="45" width="45" src="Language Icons/nodedotjs.svg" />
-    <img height="45" width="45" src="Language Icons/express.svg" />
-    <img height="45" width="45" src="Language Icons/react.svg" />
-    <img height="45" width="45" src="Language Icons/nextdotjs.svg" />
-    <img height="45" width="45" src="Language Icons/tailwindcss.svg" />
-    <img height="45" width="45" src="Language Icons/mui.svg" />
-    <img height="45" width="45" src="Language Icons/shadcnui.svg" />
-    <img height="45" width="45" src="Language Icons/nestjs.svg" />
-    <img height="45" width="45" src="Language Icons/redux.svg" />
-    <img height="45" width="45" src="Language Icons/mongodb.svg" />
-    <img height="45" width="45" src="Language Icons/mysql.svg" />
-    <img height="45" width="45" src="Language Icons/postgresql.svg" />
-    <img height="45" width="45" src="Language Icons/prisma.svg" />
-    <img height="45" width="45" src="Language Icons/graphql.svg" />
-    <img height="45" width="45" src="Language Icons/docker.svg" />
+    <img height="45" width="45" src="Language Icons/html5.svg" title="HTML" />
+    <img height="45" width="45" src="Language Icons/css3.svg" title="CSS" />
+    <img height="45" width="45" src="Language Icons/javascript.svg" title="JavaScript" />
+    <img height="45" width="45" src="Language Icons/typescript.svg" title="TypeScript" />
+    <img height="45" width="45" src="Language Icons/nodedotjs.svg" title="Node JS" />
+    <img height="45" width="45" src="Language Icons/express.svg" title="Express JS" />
+    <img height="45" width="45" src="Language Icons/react.svg" title="React JS" />
+    <img height="45" width="45" src="Language Icons/nextdotjs.svg" title="Next JS" />
+    <img height="45" width="45" src="Language Icons/tailwindcss.svg" title="Tailwind CSS" />
+    <img height="45" width="45" src="Language Icons/mui.svg" title="Material UI" />
+    <img height="45" width="45" src="Language Icons/shadcnui.svg" title="Shedcn UI" />
+    <img height="45" width="45" src="Language Icons/nestjs.svg" title="Nest JS" />
+    <img height="45" width="45" src="Language Icons/redux.svg" title="Redux Toolkit" />
+    <img height="45" width="45" src="Language Icons/mongodb.svg" title="MongoDB" />
+    <img height="45" width="45" src="Language Icons/mysql.svg" title="MySQL" />
+    <img height="45" width="45" src="Language Icons/postgresql.svg" title="PostgreSQL" />
+    <img height="45" width="45" src="Language Icons/prisma.svg" title="Prisma" />
+    <img height="45" width="45" src="Language Icons/graphql.svg" title="Graphql" />
+    <img height="45" width="45" src="Language Icons/docker.svg" title="Docker" />
   </div>
 </div>
 
