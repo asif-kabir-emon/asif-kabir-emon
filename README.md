@@ -64,11 +64,3 @@
 </div>
 
 
-<h3 align="left">Current Stats</h3>
-
-<p align="left" padding="20px">
-<!--   <img src="https://github-readme-stats-ouuan.vercel.app/api?username=asif-kabir-emon&show_icons=true&bg_color=151515&text_color=e7e7e7" /> -->
-<!--   <br/> -->
-  <img src="https://streak-stats.demolab.com?user=asif-kabir-emon&theme=dark&mode=weekly&card_width=470" alt="GitHub Streak" />
-</p>
-
